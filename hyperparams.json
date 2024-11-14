@@ -1,0 +1,175 @@
+[
+    {
+        "dataset":"whdata",
+        "missing_type": "RM",
+        "missing_ratio": 20,
+        "batch_size": 28,
+        "time_mask_ratio":0.05,
+        "spatial_mask_ratio":0.05
+    },
+    {
+        "dataset":"whdata",
+        "missing_type": "RM",
+        "missing_ratio": 20,
+        "batch_size": 28,
+        "time_mask_ratio":0.1,
+        "spatial_mask_ratio":0.1
+        
+    },
+    {
+        "dataset":"whdata",
+        "missing_type": "RM",
+        "missing_ratio": 20,
+        "batch_size": 28,
+        "time_mask_ratio":0.15,
+        "spatial_mask_ratio":0.15
+    },
+    {
+        "dataset":"whdata",
+        "missing_type": "RM",
+        "missing_ratio": 20,
+        "batch_size": 28,
+        "time_mask_ratio":0.20,
+        "spatial_mask_ratio":0.20
+    },
+    {
+        "dataset":"whdata",
+        "missing_type": "RM",
+        "missing_ratio": 20,
+        "batch_size": 28,
+        "lamda":0.01
+    },
+    {
+        "dataset":"whdata",
+        "missing_type": "RM",
+        "missing_ratio": 20,
+        "batch_size": 28,
+        "lamda":0.02
+    },
+    {
+        "dataset":"whdata",
+        "missing_type": "RM",
+        "missing_ratio": 20,
+        "batch_size": 28,
+        "lamda":0.03
+    },
+    {
+        "dataset":"whdata",
+        "missing_type": "RM",
+        "missing_ratio": 20,
+        "batch_size": 28,
+        "lamda":0.04
+    },
+    {
+        "dataset":"whdata",
+        "missing_type": "RM",
+        "missing_ratio": 20,
+        "batch_size": 28,
+        "lamda":0.001
+    },
+    {
+        "dataset":"whdata",
+        "missing_type": "RM",
+        "missing_ratio": 20,
+        "batch_size": 28,
+        "lamda":0.002
+    },
+    {
+        "dataset":"whdata",
+        "missing_type": "RM",
+        "missing_ratio": 20,
+        "batch_size": 28,
+        "lamda":0.003
+    },
+    {
+        "dataset":"whdata",
+        "missing_type": "RM",
+        "missing_ratio": 20,
+        "batch_size": 28,
+        "lamda":0.004
+    },
+    {
+        "dataset":"whdata",
+        "missing_type": "RM",
+        "missing_ratio": 20,
+        "batch_size": 28,
+        "bysrank":80
+    },
+    {
+        "dataset":"whdata",
+        "missing_type": "RM",
+        "missing_ratio": 20,
+        "batch_size": 28,
+        "bysrank":100
+    },
+    {
+        "dataset":"whdata",
+        "missing_type": "RM",
+        "missing_ratio": 20,
+        "batch_size": 28,
+        "bysrank":150
+    },
+    {
+        "dataset":"whdata",
+        "missing_type": "RM",
+        "missing_ratio": 20,
+        "batch_size": 28,
+        "bysrank":200
+    },
+    {
+        "dataset":"whdata",
+        "missing_type": "RM",
+        "missing_ratio": 20,
+        "batch_size": 28,
+        "bysrank":250
+    },
+    {
+        "dataset":"whdata",
+        "missing_type": "RM",
+        "missing_ratio": 20,
+        "batch_size": 28,
+        "bysrank":300
+    },
+    {
+        "dataset":"whdata",
+        "missing_type": "RM",
+        "missing_ratio": 20,
+        "batch_size": 28,
+        "bysrank":350
+    },
+    {
+        "dataset":"whdata",
+        "missing_type": "RM",
+        "missing_ratio": 20,
+        "batch_size": 28,
+        "bysrank":400
+    },
+    {
+        "dataset":"whdata",
+        "missing_type": "RM",
+        "missing_ratio": 20,
+        "batch_size": 28,
+        "embed_dim":28
+    },
+    {
+        "dataset":"whdata",
+        "missing_type": "RM",
+        "missing_ratio": 20,
+        "batch_size": 28,
+        "embed_dim":64
+    },
+    {
+        "dataset":"whdata",
+        "missing_type": "RM",
+        "missing_ratio": 20,
+        "batch_size": 28,
+        "embed_dim":128
+    },
+    {
+        "dataset":"whdata",
+        "missing_type": "RM",
+        "missing_ratio": 20,
+        "batch_size": 28,
+        "embed_dim":256
+    }
+]

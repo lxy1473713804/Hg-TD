@@ -1,0 +1,10 @@
+[
+    
+    {
+        "dataset":"whdata",
+        "missing_type": "RM",
+        "missing_ratio": 20,
+        "batch_size": 28
+    }
+
+]

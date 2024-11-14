@@ -1,0 +1,218 @@
+[
+    {
+        "dataset":"whdata",
+        "missing_type": "RM",
+        "missing_ratio": 20,
+        "batch_size": 28
+    },
+    {
+        "dataset":"whdata",
+        "missing_type": "RM",
+        "missing_ratio": 30,
+        "batch_size": 28
+    },
+    {
+        "dataset":"whdata",
+        "missing_type": "RM",
+        "missing_ratio": 60,
+        "batch_size": 28
+    },
+    {
+        "dataset":"whdata",
+        "missing_type": "BM",
+        "missing_ratio": 20,
+        "batch_size": 28
+    },
+    {
+        "dataset":"whdata",
+        "missing_type": "BM",
+        "missing_ratio": 30,
+        "batch_size": 28
+    },
+    {
+        "dataset":"whdata",
+        "missing_type": "BM",
+        "missing_ratio": 60,
+        "batch_size": 28
+    },
+    {
+        "dataset":"whdata",
+        "missing_type": "TM",
+        "missing_ratio": 20,
+        "batch_size": 28
+    },
+    {
+        "dataset":"whdata",
+        "missing_type": "TM",
+        "missing_ratio": 30,
+        "batch_size": 28
+    },
+    {
+        "dataset":"whdata",
+        "missing_type": "TM",
+        "missing_ratio": 60,
+        "batch_size": 28
+    },
+    {
+        "dataset":"pems04",
+        "missing_type": "RM",
+        "missing_ratio": 20,
+        "batch_size": 59
+    },
+    {
+        "dataset":"pems04",
+        "missing_type": "RM",
+        "missing_ratio": 30,
+        "batch_size": 59
+    },
+    {
+        "dataset":"pems04",
+        "missing_type": "RM",
+        "missing_ratio": 60,
+        "batch_size": 59
+    },
+    {
+        "dataset":"pems04",
+        "missing_type": "BM",
+        "missing_ratio": 20,
+        "batch_size": 59
+    },
+    {
+        "dataset":"pems04",
+        "missing_type": "BM",
+        "missing_ratio": 30,
+        "batch_size": 59
+    },
+    {
+        "dataset":"pems04",
+        "missing_type": "BM",
+        "missing_ratio": 60,
+        "batch_size": 59
+    },
+    {
+        "dataset":"pems04",
+        "missing_type": "TM",
+        "missing_ratio": 20,
+        "batch_size": 59
+    },
+    {
+        "dataset":"pems04",
+        "missing_type": "TM",
+        "missing_ratio": 30,
+        "batch_size": 59
+    },
+    {
+        "dataset":"pems04",
+        "missing_type": "TM",
+        "missing_ratio": 60,
+        "batch_size": 59
+    },
+    {
+        "dataset":"pems03",
+        "missing_type": "RM",
+        "missing_ratio": 20,
+        "batch_size": 91
+    },
+    {
+        "dataset":"pems03",
+        "missing_type": "RM",
+        "missing_ratio": 30,
+        "batch_size": 91
+    },
+    {
+        "dataset":"pems03",
+        "missing_type": "RM",
+        "missing_ratio": 60,
+        "batch_size": 91
+    },
+    {
+        "dataset":"pems03",
+        "missing_type": "BM",
+        "missing_ratio": 20,
+        "batch_size": 91
+    },
+    {
+        "dataset":"pems03",
+        "missing_type": "BM",
+        "missing_ratio": 30,
+        "batch_size": 91
+    },
+    {
+        "dataset":"pems03",
+        "missing_type": "BM",
+        "missing_ratio": 60,
+        "batch_size": 91
+    },
+    {
+        "dataset":"pems03",
+        "missing_type": "TM",
+        "missing_ratio": 20,
+        "batch_size": 91
+    },
+    {
+        "dataset":"pems03",
+        "missing_type": "TM",
+        "missing_ratio": 30,
+        "batch_size": 91
+    },
+    {
+        "dataset":"pems03",
+        "missing_type": "TM",
+        "missing_ratio": 60,
+        "batch_size": 91
+    },
+    {
+        "dataset":"pems08",
+        "missing_type": "RM",
+        "missing_ratio": 20,
+        "batch_size": 62
+    },
+    {
+        "dataset":"pems08",
+        "missing_type": "RM",
+        "missing_ratio": 30,
+        "batch_size": 62
+    },
+    {
+        "dataset":"pems08",
+        "missing_type": "RM",
+        "missing_ratio": 60,
+        "batch_size": 62
+    },
+    {
+        "dataset":"pems08",
+        "missing_type": "BM",
+        "missing_ratio": 20,
+        "batch_size": 62
+    },
+    {
+        "dataset":"pems08",
+        "missing_type": "BM",
+        "missing_ratio": 30,
+        "batch_size": 62
+    },
+    {
+        "dataset":"pems08",
+        "missing_type": "BM",
+        "missing_ratio": 60,
+        "batch_size": 62
+    },
+    {
+        "dataset":"pems08",
+        "missing_type": "TM",
+        "missing_ratio": 20,
+        "batch_size": 62
+    },
+    {
+        "dataset":"pems08",
+        "missing_type": "TM",
+        "missing_ratio": 30,
+        "batch_size": 62
+    },
+    {
+        "dataset":"pems08",
+        "missing_type": "TM",
+        "missing_ratio": 60,
+        "batch_size": 62
+    }
+]
